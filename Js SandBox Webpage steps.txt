@@ -1,7 +1,4 @@
-We created a webpage for a shopping website using the JS sandbox playground of OpenAI
-Codex. This demonstrates how the playground converts meaningful text into a visual context.
-By utilizing all of the features and functionalities provided by Codex, we can experiment with this
-tool.
+We created a webpage for a shopping website using the JS sandbox playground of OpenAI Codex. This demonstrates how the playground converts meaningful text into a visual context. By utilizing all of the features and functionalities provided by Codex, we can experiment with this tool.
 
 Here are the steps to create a beautiful webpage for a shopping website:
 1. Add a navigation bar on top of the page.
@@ -17,14 +14,10 @@ https://o.remove.bg/downloads/65734bed-9572-42e9-bae4-713329bd8ff6/ts-removebgp
 10. Add a text "Black Casual T-shirt" centered and below the tshirt image in a box.
 11. Add + and - button with a text in between it in a box below the tshirt text label.
 12. Make top margin 10px.
-13. Add a "Add to cart" button on the center of the screen in a box with white background
-color and black text.
-14. Add a text button which says "View more products" centered on the screen and below
-add to cart button with black background and white color text and beautiful font.
-15. Add top margin of 40 px.Add bottom navbar with black background color and white text
-on it which says "© All copyright reserved" and is centered on navbar.
-16. Add bottom navbar with black background color and white text on it which says "© All
-copyright reserved" and is centered on navbar.
+13. Add a "Add to cart" button on the center of the screen in a box with white background color and black text.
+14. Add a text button which says "View more products" centered on the screen and below add to cart button with black background and white color text and beautiful font.
+15. Add top margin of 40 px.Add bottom navbar with black background color and white text on it which says "© All copyright reserved" and is centered on navbar.
+16. Add bottom navbar with black background color and white text on it which says "© All copyright reserved" and is centered on navbar.
 17. Make the bottom navbar to absolute bottom of the page.
 
 ** Change the step 8 to your prefered image address link.
