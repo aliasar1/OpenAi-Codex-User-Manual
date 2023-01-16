@@ -4,3 +4,9 @@ This repository has the user manual for OpenAi Codex where we researched about w
 
 ### Here is the end product we build using JavaScript Sandbox:
 ![image](https://user-images.githubusercontent.com/74453775/212482862-0689ad42-46be-4b2a-9881-d8d5c2a0bf51.png)
+
+### OpenAi Codex Official Website
+https://openai.com/blog/openai-codex/
+
+### JavaScript Sandbox Playground
+https://beta.openai.com/codex-javascript-sandbox
